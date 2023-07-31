@@ -3,3 +3,7 @@ geckodriver-autoinstaller
 selenium
 
 pandas
+
+bs4
+
+httpx
